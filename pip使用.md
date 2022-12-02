@@ -5,6 +5,6 @@
 建议使用豆瓣源
 
 ```python
-pip install xxx -i http://pypi.douban.com/simple/ 
+pip install xxx -i https://pypi.douban.com/simple/ 
 ```
 
